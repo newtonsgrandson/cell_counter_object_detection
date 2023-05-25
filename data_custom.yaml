@@ -1,0 +1,6 @@
+train: C:\Users\muham\Desktop\yolov8_custom\train
+val: C:\Users\muham\Desktop\yolov8_custom\val
+
+nc: 1
+
+names: ["cell"] 
